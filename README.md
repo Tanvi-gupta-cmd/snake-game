@@ -26,16 +26,6 @@ The player controls the snake using keyboard arrow keys to eat food and increase
 4. Avoid hitting the walls or the snake’s own body.
 5. Game ends when a collision occurs.
 
-## 📂 How to Run the Project
-
-1. Download or clone the repository
-2. Open the project folder
-3. Open `index.html` in your browser
-
-## 📸 Screenshot
-
-(Add a screenshot of your game here)
-
 ## 📌 Future Improvements
 
 - Add difficulty levels
